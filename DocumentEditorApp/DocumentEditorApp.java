@@ -1,4 +1,4 @@
-package SystemDesign.DocumentEditorApp;
+package DocumentEditorApp;
 import java.util.*;
 import java.io.*;
 

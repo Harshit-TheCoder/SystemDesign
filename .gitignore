@@ -1,0 +1,15 @@
+# Ignore compiled Java bytecode
+*.class
+
+# Ignore common build folders
+bin/
+out/
+target/
+
+# VS Code Java specific
+.vscode/
+.settings/
+
+# OS junk
+.DS_Store
+Thumbs.db
